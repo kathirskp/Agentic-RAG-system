@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ```
 
 # Create two folders with the below name
-1. Sample datasets
+1. Sample datasets (upload the knowledge base documents to this folder)
 2. static
 
 # Running the Application
