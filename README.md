@@ -39,6 +39,10 @@ This project implements a complete RAG system that allows you to upload document
 pip install -r requirements.txt
 ```
 
+# Create two folders with the below name
+1. Sample datasets
+2. static
+
 # Running the Application
 
 ```bash
